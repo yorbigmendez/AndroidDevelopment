@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CircleArea</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello In English</string>
+    <string name="typeRadio">Type the circle´s radius: </string>
+    <string name="result">The area is: </string>
+    <string name="submit">Submit</string>
+    <string name="invalidRadius">Radius is invalid</string>
+    <string name="radio">Radius:</string>
+
+</resources>

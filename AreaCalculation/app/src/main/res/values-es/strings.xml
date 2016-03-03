@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CircleArea</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="hello">Hola en Español</string>
+    <string name="radio">Radio: </string>
+    <string name="result">El area del circulo es: </string>
+    <string name="submit">Aceptar</string>
+    <string name="typeRadio">Digite el radio del circulo: </string>
+    <string name="invalidRadius">Radio es invalido</string>
+</resources>
