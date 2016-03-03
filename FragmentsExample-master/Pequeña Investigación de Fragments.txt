@@ -1,0 +1,24 @@
+Inicios del fragment
+
+Los fragmentos o fragments nace con la versión HoneyComb 3.0 (API 11)  de Android debido a los múltiples tamaños de pantalla
+que estaban apareciendo en el mercado y a la capacidad de orientación de la interfaz ( Landscape y Portrait).
+Estas características necesitaban dotar a las aplicaciones Android de la capacidad para adaptarse
+y responder a la interfaz de usuario sin importar el dispositivo.
+
+
+¿Qué es un fragment?
+
+Un fragmento es una sección “modular” de interfaz de usuario embebida dentro de una actividad anfitriona (activity),
+el cual permite versatilidad y optimización de diseño. Se trata de miniactividades contenidas dentro de una actividad anfitriona,
+manejando su propio diseño (un recurso layout propio) y ciclo de vida. Cabe rescatar que un fragment no siempre debe tener 
+su propia interfaz, es posible crean fragments funcionales sin interfaz. Para crear un fragment es necesario extender de la clase
+fragment.
+
+
+Beneficios del fragment
+
+Estas nuevas entidades permiten reusar código y ahorrar tiempo de diseño a la hora de desarrollar una aplicación.
+Los fragmentos facilitan el despliegue de las aplicaciones en cualquier tipo de tamaño de pantalla y orientación.
+Es posible desplegar cuantos fragments se requiera en una vista para formar una vista de multiples paneles.
+Permiten diseñar interfaces de usuario de multiples vistas(diseño dinamico)
+Su independencia a la hora de trabajar.
