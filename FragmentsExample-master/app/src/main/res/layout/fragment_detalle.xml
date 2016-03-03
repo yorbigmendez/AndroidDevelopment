@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#FFBBBBBB" >
+
+    <TextView
+        android:id="@+id/TxtDetalle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageEmail"
+        android:minWidth="150dp"
+        android:minHeight="150dp"/>
+
+    <TextView
+        android:id="@+id/txtLiked"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        />
+
+    <RadioGroup
+        android:id="@+id/radioGroupLike"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Like this Person"
+            android:id="@+id/radioYes" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dont like this Person"
+            android:id="@+id/RadioNo"
+            />
+    </RadioGroup>
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/btnSubmit"
+        android:text="Submit"/>
+
+</LinearLayout>
