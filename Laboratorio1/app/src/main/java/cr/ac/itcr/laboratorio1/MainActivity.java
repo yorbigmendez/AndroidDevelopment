@@ -38,10 +38,10 @@ public class MainActivity extends AppCompatActivity {
         listNations.add(new Nations(R.drawable.japon,"Japon","127.180.000"));
         listNations.add(new Nations(R.drawable.malasia,"Malasia","30.041.000"));
         listNations.add(new Nations(R.drawable.nepal,"Nepal","26.494.504"));
-        listNations.add(new Nations(R.drawable.nepal,"España","46.609.700"));
-        listNations.add(new Nations(R.drawable.nepal,"Francia","65.844.000"));
-        listNations.add(new Nations(R.drawable.nepal,"Holanda","16.842.200"));
-        listNations.add(new Nations(R.drawable.nepal,"Australia","23.414.552"));
+        listNations.add(new Nations(R.drawable.espana,"España","46.609.700"));
+        listNations.add(new Nations(R.drawable.francia,"Francia","65.844.000"));
+        listNations.add(new Nations(R.drawable.holanda,"Holanda","16.842.200"));
+        listNations.add(new Nations(R.drawable.au,"Australia","23.414.552"));
         adaptNations = new NationsAdapter(this,R.layout.fragment_nation,listNations);
 
         lstViewNations.setAdapter(adaptNations);
