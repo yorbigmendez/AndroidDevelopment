@@ -1,0 +1,27 @@
+Egipto		86.127.000
+Marruecos 	33.202.300
+Costa Rica 	4.667.096
+Jamaica 	2.711.476
+Panamá 	 	3.405.813
+Brasil 	 	201.032.714
+Chile 	 	16.341.929
+Colombia 	47.506.000
+Ecuador 	15.699.200
+Paraguay 	6.783.374
+Perú 	 	30.475.144
+Uruguay  	3.286.314
+Venezuela 	28.946.101
+China 	 	1.363.350.000
+India 	 	1.241.610.000
+Japón 		127.180.000
+Malasia  	30.041.000
+Nepal 	 	26.494.504
+Rusia 	 	143.700.000
+Taiwán 	 	23.379.129
+Alemania 	80.619.000
+Dinamarca	5.627.235
+Eslovenia 	2.061.963
+España 	 	46.609.700
+Francia  	65.844.000
+Países Bajos 	16.842.200
+Australia  	23.414.552
