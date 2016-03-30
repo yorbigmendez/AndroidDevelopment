@@ -8,11 +8,16 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="cr.ac.itcr.laboratorio1.MainActivity"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="cr.ac.itcr.laboratorio2.MainActivity"
     tools:showIn="@layout/activity_main">
 
-    <TextView
+
+    <ListView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:id="@+id/listViewPersons"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 </RelativeLayout>

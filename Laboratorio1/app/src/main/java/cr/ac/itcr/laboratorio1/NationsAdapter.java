@@ -2,6 +2,7 @@ package cr.ac.itcr.laboratorio1;
 
 import android.app.Activity;
 import android.content.Context;
+import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.text.Layout;
