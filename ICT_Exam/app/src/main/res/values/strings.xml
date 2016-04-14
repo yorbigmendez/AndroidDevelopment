@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">TEC Exam App</string>
+    <string name="action_settings">Settings</string>
+    <string name="logOut">Log Out</string>
+    <string name="about">About</string>
+    <string-array name="titles">
+        <item>About</item>
+        <item>List</item>
+        <item>Manage</item>
+    </string-array>
+
+    <string-array name="Color">
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>White</item>
+        <item>Black</item>
+        <item>Gray</item>
+        <item>Orange</item>
+        <item>Purple</item>
+        <item>Magneta</item>
+        <item>Cyan</item>
+        <item>Brown</item>
+    </string-array>
+
+    <string-array name="size">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Big</item>
+    </string-array>
+
+    <string-array name="foot_structure">
+        <item>Anisodactyl</item>
+        <item>Zygodactyl</item>
+        <item>Tridactyl</item>
+        <item>Didactyl</item>
+    </string-array>
+
+    <string name="id">ID: </string>
+    <string name="name">Name: </string>
+    <string name="foot_structure">Foot Structure: </string>
+    <string name="color">Color: </string>
+    <string name="size">Size: </string>
+
+    <string name="itcr">Instituto Tecnologico de Costa Rica</string>
+    <string name="sede">Sede San Carlos</string>
+    <string name="semester">VII Semestre</string>
+    <string name="courseName">Android Development Class</string>
+    <string name="myInfo">Yorbi G. Mendez Soto</string>
+
+</resources>
