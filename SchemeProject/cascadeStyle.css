@@ -1,0 +1,42 @@
+#header{
+    background-color: darkslategray;
+    text-align: center;
+    color: azure;
+    margin-bottom: 20px;
+}
+#boatContent{
+    position: absolute;
+    width:200px;
+    height: auto;
+    padding-top: 100px;
+    clear: both;
+}
+
+.container{
+    width: 100%;
+}
+
+#misionaries{
+    margin-bottom: 5px;
+    float: left;
+}
+
+#cannibals{
+    margin-bottom: 5px;
+    float: right;
+}
+
+#display{
+    height: 300px;
+    background-color: darkseagreen;
+}
+
+#footer{
+    margin-top: 20px;
+    height: 100px;
+    background-color: dodgerblue;
+}
+
+.sideContents{
+    margin-top: 50px;
+}
